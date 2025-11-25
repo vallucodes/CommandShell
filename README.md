@@ -29,13 +29,13 @@ Minishell is a simple Unix shell implementation written in C. This project aims 
 
 ### Compilation
 ```bash
-git clone https://github.com/vallucodes/minishell.git
-cd minishell
+git clone https://github.com/vallucodes/CommandShell.git
+cd CommandShell
 make
 ```
 ### Run
 ```bash
-./minishell
+./CommandShell
 ```
 
 ## ⏩ Example usage
